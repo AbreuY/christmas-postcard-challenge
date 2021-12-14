@@ -59,11 +59,15 @@
 		]
 	},
 	"dependencies": {
+		"bourbon": "^7.0.0",
+		"jquery": "^3.6.0",
 		"prop-types": "^15.7.2",
 		"query-string": "^7.0.1",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-polyfills": "0.0.1",
-		"react-router": "^6.0.2"
+		"react-router": "^6.0.2",
+		"sass": "^1.45.0",
+		"sass-loader": "^12.4.0"
 	}
 }
